@@ -1,2 +1,2 @@
 # Memorizing-game
-A little game to improve the memory.
+A little game to improve your memory.
